@@ -1,0 +1,14 @@
+account deactivation listener class
+filter out accounts that have been deactivated
+
+if book is owned by deactivated student, can't order
+if student is deactivated, can't order it
+
+ours is availability in our database
+we check what is available...filter out unavailable texts
+
+when we rent the book, send ID and ISBN
+
+
+Goal for Monday:
+If studentID is in class of bookRepository, make book unavailable.

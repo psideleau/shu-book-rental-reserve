@@ -1,0 +1,1 @@
+This is to explain what happened with the commit messages. I couldn't seem to get the files to push, and so I ended up forcing it. However, all files in here are ones that I downloaded from GitHub and are up to date.
